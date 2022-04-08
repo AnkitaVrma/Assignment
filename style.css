@@ -1,0 +1,19 @@
+body{
+  background-color:#d3d3d3;
+}
+
+.box1 {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container {
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 30px;
+  background-color: #fff;
+}
